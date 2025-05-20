@@ -18,6 +18,8 @@ real-world problems in new and meaningful ways.
 
 ## 2. Vision
 ### 2.1 Image Captioning
+✦ [Generating Vivid Landscape Image Captions with Salesforce BLIP-2-opt-2.7b and Microsoft Phi-2 in PyTorch](Python%20Scripts/Generating%20Vivid%20Landscape%20Image%20Captions%20with%20Salesforce%20BLIP-2-opt-2.7b%20and%20Microsoft%20Phi-2%20in%20PyTorch.ipynb)<br />
+
 ### 2.2 Face & Object Detection
 ### 2.3 Emotion Recognition
 ### 2.4 Generative Vision (Diffusion, GANs)
