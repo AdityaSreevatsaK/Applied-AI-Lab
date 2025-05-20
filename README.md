@@ -68,6 +68,7 @@ real-world problems in new and meaningful ways.
 ## 6. Experimental and Creative AI
 
 ### 6.1 Generative Models
+✦ [Generating High-Resolution Fantasy Landscapes Using CompVis-Stable-diffusion-v1-4 and Prompt Engineering in PyTorch](Python%20Scripts/Generating%20High-Resolution%20Fantasy%20Landscapes%20Using%20CompVis-Stable-diffusion-v1-4%20and%20Prompt%20Engineering%20in%20PyTorch.ipynb)<br />
 
 ### 6.2 Prompt-Based Applications
 
