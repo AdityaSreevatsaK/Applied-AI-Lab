@@ -1,11 +1,10 @@
 # <p align="center">Applied AI Lab</p>
 ## <i>Create. Innovate. Apply Artificial Intelligence.</i>
 
-<p>
-Applied-AI-Lab is a creative space for exploring and building innovative AI-driven applications. It brings together 
-diverse projects that showcase the practical potential of modern AI, blending language, vision, and interaction to solve 
-real-world problems in new and meaningful ways.
-</p>
+A creative playground for applying cutting-edge AI techniques to real-world problems. Applied-AI-Lab brings together 
+diverse projects in NLP, computer vision, recommendation systems, and multi-modal learning. Each project blends 
+innovation and utility, showing how modern AI can be practically deployed across domains — from language understanding 
+to image generation to human-computer interaction.
 
 ---
 
