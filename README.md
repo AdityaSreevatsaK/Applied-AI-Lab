@@ -47,6 +47,8 @@ to image generation to human-computer interaction.
 ## 5. Multimodal Systems
 ### 5.1 Vision + Language (VQA, image2text, text2image)
 ### 5.2 Speech + Text (speech translation, audio chat)
+✦ [Real-Time Multilingual Speech Translator using Whisper, MarianMT, and Coqui TTS](Python%20Scripts/Real-Time%20Multilingual%20Speech%20Translator%20using%20Whisper,%20MarianMT,%20and%20Coqui%20TTS.ipynb)<br />
+
 ### 5.3 Interactive AI Agents (tools + LLMs)
 
 ---
