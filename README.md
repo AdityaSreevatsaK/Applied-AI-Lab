@@ -50,6 +50,7 @@ to image generation to human-computer interaction.
 ✦ [Real-Time Multilingual Speech Translator using Whisper, MarianMT, and Coqui TTS](Python%20Scripts/Real-Time%20Multilingual%20Speech%20Translator%20using%20Whisper,%20MarianMT,%20and%20Coqui%20TTS.ipynb)<br />
 
 ### 5.3 Interactive AI Agents (tools + LLMs)
+✦ [Building a Poetic Fantasy NPC Chatbot with GPT-Neo-2.7B and Archaic Summarization in PyTorch](Python%20Scripts/Building%20a%20Poetic%20Fantasy%20NPC%20Chatbot%20with%20GPT-Neo-2.7B%20and%20Archaic%20Summarization%20in%20PyTorch.ipynb)<br />
 
 ---
 
